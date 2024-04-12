@@ -24,40 +24,39 @@
     src: url("../assets/HarmonyOS_Sans_Light.ttf");
 }
 .HeaderTop{
-    background: linear-gradient(to bottom, rgba(0,0,0,0.85),rgba(0,0,0,0));
+    background: linear-gradient(to bottom, rgba(0,0,0,0.8),rgba(0,0,0,0));
     width: 101.5%;
     height: 90px;
-    margin: -1%;
+    margin: -1%;position:fixed;
 }
 .ShaperTop{
   font-family: TitleT;letter-spacing:1.5px;
 }
 .ShaperLogo{
-    width: 35px; float: left;filter:opacity(75%);
+    width: 35px; float: left;filter:opacity(80%);
     margin-top: 27.5px;margin-left: 65px;
 }
 .ShaperTitle{
-    float: left;color: rgba(255, 255, 255, 0.65);
+    float: left;color: rgba(255, 255, 255, 0.80);
     margin-top: 31px;margin-left: 20px;font-size: 20px;
 }
 .VOCALSHAPER{
-  float:left;margin-left: 240px;margin-top: 36px;font-size: 15px;color: rgba(255, 255, 255, 0.65);
+  float:left;margin-left: 225px;margin-top: 36px;font-size: 15px;color: rgba(255, 255, 255, 0.80);
 }
 .DOWNLOAD{
-  float:left;margin-left: 110px;margin-top: 36px;font-size: 15px;color: rgba(255, 255, 255, 0.65);
+  float:left;margin-left: 110px;margin-top: 36px;font-size: 15px;color: rgba(255, 255, 255, 0.80);
 }
 .DOCUMENT{
-  float:left;margin-left: 110px;margin-top: 36px;font-size: 15px;color: rgba(255, 255, 255, 0.65);
+  float:left;margin-left: 110px;margin-top: 36px;font-size: 15px;color: rgba(255, 255, 255, 0.80);
 }
 .CONTACT{
-  float:left;margin-left: 110px;margin-top: 36px;font-size: 15px;color: rgba(255, 255, 255, 0.65);
+  float:left;margin-left: 110px;margin-top: 36px;font-size: 15px;color: rgba(255, 255, 255, 0.80);
 }
 .GithubLogo{
   float:left;width: 32px;
   margin-top: 28px;
   margin-left: 240px;
-  filter:opacity(75%);  
-  border:1.5px solid rgba(255, 255, 255, 0.50);
+  filter:opacity(80%);  
   border-radius: 50px;
 }
 </style>

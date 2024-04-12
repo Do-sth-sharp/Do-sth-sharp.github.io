@@ -5,8 +5,31 @@
     <link rel="icon" type="image/svg+xml" href="/ShaperLogo.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title> VocalShaper 公式站 </title>
+    <style>
+      
+     /* 定义滚动条样式 */
+     ::-webkit-scrollbar {
+        width: 1px;
+        height: 8px;
+    }
+ 
+    /* 定义滚动条的轨道部分 */
+    ::-webkit-scrollbar-track {  
+        background-color: #000000;
+        width: 1px;  
+    }
+ 
+    /* 定义滚动条的thumb部分 */
+    ::-webkit-scrollbar-thumb {  
+        background-color: #aeaeae; 
+    }
+
+    </style>
   </head>
-  <body>
+  <body 
+  style="overflow: scroll;
+  overflow-x: hidden;
+  background-color: rgba(0, 0, 0, 0.918);">
     <div id="app"></div>
     <script type="module" src="/src/main.js"></script>
   </body>
