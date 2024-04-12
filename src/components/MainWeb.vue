@@ -46,7 +46,7 @@ import WebHeader from './WebHeader.vue';
   letter-spacing:10px;
   font-weight: 550; 
   -webkit-text-fill-color : rgba(98, 111, 252, 0.6); 
-  animation: wave-animation 5s ease-in-out infinite;
+  animation: wave-animation 2.5s ease-in-out infinite;
 }
  
 @keyframes wave-animation {
