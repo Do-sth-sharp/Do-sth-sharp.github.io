@@ -25,7 +25,7 @@
 }
 .HeaderTop{
     background: linear-gradient(to bottom, rgba(0,0,0,0.8),rgba(0,0,0,0));
-    width: 101.5%;
+    width: 1550px;
     height: 90px;
     margin: -1%;position:fixed;
 }
@@ -34,28 +34,28 @@
 }
 .ShaperLogo{
     width: 35px; float: left;filter:opacity(80%);
-    margin-top: 27.5px;margin-left: 65px;
+    margin-top: 27.5px;margin-left: 6%;
 }
 .ShaperTitle{
     float: left;color: rgba(255, 255, 255, 0.80);
-    margin-top: 31px;margin-left: 20px;font-size: 20px;
+    margin-top: 31px;margin-left: 1%;font-size: 20px;
 }
 .VOCALSHAPER{
-  float:left;margin-left: 225px;margin-top: 36px;font-size: 15px;color: rgba(255, 255, 255, 0.80);
+  float:left;margin-left: 10%;margin-top: 36px;font-size: 15px;color: rgba(255, 255, 255, 0.80);
 }
 .DOWNLOAD{
-  float:left;margin-left: 110px;margin-top: 36px;font-size: 15px;color: rgba(255, 255, 255, 0.80);
+  float:left;margin-left: 10%;margin-top: 36px;font-size: 15px;color: rgba(255, 255, 255, 0.80);
 }
 .DOCUMENT{
-  float:left;margin-left: 110px;margin-top: 36px;font-size: 15px;color: rgba(255, 255, 255, 0.80);
+  float:left;margin-left: 10%;margin-top: 36px;font-size: 15px;color: rgba(255, 255, 255, 0.80);
 }
 .CONTACT{
-  float:left;margin-left: 110px;margin-top: 36px;font-size: 15px;color: rgba(255, 255, 255, 0.80);
+  float:left;margin-left: 10%;margin-top: 36px;font-size: 15px;color: rgba(255, 255, 255, 0.80);
 }
 .GithubLogo{
   float:left;width: 32px;
   margin-top: 28px;
-  margin-left: 240px;
+  margin-left: 9%;
   filter:opacity(80%);  
   border-radius: 50px;
 }
