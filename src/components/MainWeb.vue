@@ -31,7 +31,7 @@ import WebHeader from './WebHeader.vue';
 
 .MainCha {
   position:relative;float: left;
-  margin-top: -430px;margin-left: 180px;
+  margin-top: -430px;margin-left: 175px;
   font-size: 100px;
   letter-spacing:10px;
   font-weight: 550;
@@ -41,7 +41,7 @@ import WebHeader from './WebHeader.vue';
 }
 .highlight { 
   position:relative;float: left;
-  margin-top: -430px;margin-left: 180px;
+  margin-top: -430px;margin-left: 175px;
   font-size: 100px;
   letter-spacing:10px;
   font-weight: 550; 
