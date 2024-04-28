@@ -33,7 +33,7 @@
   font-family: TitleT;letter-spacing:1.5px;
 }
 .ShaperLogo{
-    width: 35px; float: left;filter:opacity(80%);
+    width: 35px; float: left;filter:opacity(90%);
     margin-top: 27.5px;margin-left: 6%;
 }
 .ShaperTitle{
@@ -56,7 +56,7 @@
   float:left;width: 32px;
   margin-top: 28px;
   margin-left: 9%;
-  filter:opacity(80%);  
+  filter:opacity(90%);  
   border-radius: 50px;
 }
 </style>
