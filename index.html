@@ -9,28 +9,36 @@
       
      /* 定义滚动条样式 */
      ::-webkit-scrollbar {
-        width: 1px;
-        height: 8px;
+        width: 2.5px;
+        height: 2.5px;
     }
  
     /* 定义滚动条的轨道部分 */
     ::-webkit-scrollbar-track {  
         background-color: #000000;
-        width: 1px;  
+        width: 2px;
+        height: 2px;
     }
  
     /* 定义滚动条的thumb部分 */
     ::-webkit-scrollbar-thumb {  
-        background-color: #aeaeae; 
+        background-color: #d6d0d0a3; 
+        width: 2px;
+        height: 2px;
     }
 
-   
+    html {
+    min-width: 1530px;
+	  min-height: 600px;
+    max-width: 1530px;
+    max-height: 600px;
+    }
   
     </style>
   </head>
   <body 
   style="overflow: scroll;
-  overflow-x: hidden;
+
   background-color: rgba(0, 0, 0, 0.918);">
     <div id="app"></div>
     <script type="module" src="/src/main.js"></script>

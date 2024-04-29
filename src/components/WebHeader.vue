@@ -25,9 +25,9 @@
 }
 .HeaderTop{
     background: linear-gradient(to bottom, rgba(0,0,0,0.8),rgba(0,0,0,0));
-    width: 100%;
-    height: 80px;
-    margin: -1%;position:fixed;overflow: hidden;
+    width: 1530px;
+    height: 90px;
+    margin: -1%;position:fixed;
 }
 .ShaperTop{
   font-family: TitleT;letter-spacing:1.5px;
