@@ -5,11 +5,13 @@ import WebHeader from './WebHeader.vue';
 <template>
   <div>
   <WebHeader />
-  <div>
+  <div class="web1">
   <img src= "../assets/Dashichang.png"  class="ShaperLogo">
   </img>
+  
   <p class="MainCha">VocalShaper Studio</p>
   <span class="highlight">VocalShaper Studio</span>
+  
   </div>
   <div>
 <br>
@@ -25,28 +27,34 @@ import WebHeader from './WebHeader.vue';
 </template>
 
 <style scoped>
+.web1{
+    width: 1500px;
+    height: 80px;
+}
 .ShaperLogo{
   width: 1540px;height: 730px;margin: -10px;
 }
 
 .MainCha {
   position:relative;float: left;
-  margin-top: -430px;margin-left: 170px;
+  margin-top: -400px;margin-left: 12%;
   font-size: 100px;
   letter-spacing:10px;
   font-weight: 550;
   -webkit-text-stroke: 1.8px rgba(255, 255, 255, 0.55); 
   -webkit-text-fill-color : rgba(255, 255, 255, 0);
-
+  overflow: hidden;
+  
 }
 .highlight { 
   position:relative;float: left;
-  margin-top: -430px;margin-left: 170px;
+  margin-top: -400px;margin-left: 12%;
   font-size: 100px;
   letter-spacing:10px;
   font-weight: 550; 
   -webkit-text-fill-color : rgba(98, 111, 252, 0.6); 
   animation: wave-animation 2.5s ease-in-out infinite;
+  overflow: hidden;
 }
  
 @keyframes wave-animation {
