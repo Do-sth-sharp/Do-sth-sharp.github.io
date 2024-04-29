@@ -32,7 +32,7 @@ import WebHeader from './WebHeader.vue';
     height: 80px;
 }
 .ShaperLogo{
-  width: 1530px;height: 730px;margin: -10px;
+  width: 1540px;height: 730px;margin: -10px;
 }
 
 .MainCha {

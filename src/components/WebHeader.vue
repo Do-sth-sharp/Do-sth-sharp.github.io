@@ -25,7 +25,7 @@
 }
 .HeaderTop{
     background: linear-gradient(to bottom, rgba(0,0,0,0.8),rgba(0,0,0,0));
-    width: 1530px;
+    width: 1548px;
     height: 90px;
     margin: -1%;position:fixed;
 }
